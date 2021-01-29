@@ -20,7 +20,7 @@ function Home(){
                         </Link>
                     </div>
                     <div className="home-image">
-                        <MainImage />
+                        <MainImage width={400}/>
                     </div>
                 </div>
             </div>
